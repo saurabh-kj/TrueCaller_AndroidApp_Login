@@ -5,7 +5,7 @@ Developed a sample framework that supports to develop automation test scripts fo
 
 ## Libraries used:
   1. Java
-  2. Selenium
+  2. Selenium WebDriver
   3. TestNG
   4. Extentreports
   5. Maven
