@@ -1,4 +1,4 @@
-# Truecaller_AndroidApp_Login
+# TruecallerLogin_AndroidApp_Selenium_Java_Appium
 
 # Objective:
 Developed a sample framework that supports to develop automation test scripts for Truecaller Android App. Currently it has method to login/sign-up in the application.
@@ -7,9 +7,8 @@ Developed a sample framework that supports to develop automation test scripts fo
   1. Java
   2. Selenium WebDriver
   3. TestNG
-  4. Extentreports
-  5. Maven
-  6. Appium
+  4. Maven
+  5. Appium
   
 ## Steps to start:
   1. Clone / Download the project into your local.
